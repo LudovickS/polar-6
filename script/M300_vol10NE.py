@@ -11,7 +11,7 @@ from datetime import datetime
 from matplotlib.dates import date2num
 
 
-m300 = open("/Users/ludovick/Desktop/data_netcare/M300csv/sc10_20150421_M300.csv")
+m300 = open("/Users/ludovick/Git/Polar 6/data_netcare/M300csv/sc10_20150421_M300.csv")
 #heiko = open("/Users/ludovick/Desktop/data_netcare/Heiko/Flight8_H2O.csv")
 
 
