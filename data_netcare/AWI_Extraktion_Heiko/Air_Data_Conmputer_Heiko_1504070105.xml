@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderfile xmlns="http://www.werum.de/schema/orderfile" archiveSetPath="/Polar6/NETCARE_P6_2015/1504070105-dms1" orderFileName="Air_Data_Conmputer_Heiko_1504070105.xml" saveOrderFileName="" saveOrder="false" systemName="Polar6">
+    <user emailAddress="" receiveEmail="false" username="polar6@awi.de"/>
+    <destinationFile fileNamePrefix="Air_Data_Conmputer_Heiko_1504070105" fileFormat="ASCII" maxFileSize="1024" path="/data/DMS_Extraction/results">
+        <format columnSeparator="\t" dateTimeFormat="YYYY_SLASH_MM_SLASH_DD_STAR_HH_COLON_mm_COLON_ss" decimalSeparator="Dot" fitToFormat="false" includeHeaderRow="true" nonValidValueAlphanumeric=" " nonValidValueNumeric="9" nonValidValuePosition=" " recordSeparator="\n" secondFractionDigits="6" showInvalidValues="true" skipInvalidLines="true"/>
+    </destinationFile>
+    <extraction dataSource="FullDataSet" endDate="2015-04-07T20:51:52.000Z" intervalUnit="s" intervalValue="1" startDate="2015-04-07T16:08:43.000Z">
+        <channels numberOfChannels="7">
+            <channel channelShortName="IAS" columnOrderPosition="1" deviceShortName="ADC" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="knots" precision="2" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="IVS" columnOrderPosition="2" deviceShortName="ADC" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="knots" precision="2" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="TA" columnOrderPosition="3" deviceShortName="ADC" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="knots" precision="2" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="MA" columnOrderPosition="4" deviceShortName="ADC" fieldWidth="2" meanCalculation="Numeric" outputFormat="Real" physicalUnit="N/A" precision="5" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="OAT" columnOrderPosition="5" deviceShortName="ADC" fieldWidth="2" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg" precision="2" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="TAT" columnOrderPosition="6" deviceShortName="ADC" fieldWidth="2" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg" precision="2" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="P" columnOrderPosition="7" deviceShortName="ADC" fieldWidth="4" meanCalculation="Numeric" outputFormat="Real" physicalUnit="fts" precision="2" sampleRate="20" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+        </channels>
+    </extraction>
+</orderfile>

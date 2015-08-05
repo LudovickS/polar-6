@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderfile xmlns="http://www.werum.de/schema/orderfile" archiveSetPath="/Polar6/NETCARE_P6_2015/1503270000-dms1" orderFileName="RAD_Extraktion_Heiko_1503270000.xml" saveOrderFileName="" saveOrder="false" systemName="Polar6">
+    <user emailAddress="" receiveEmail="false" username="polar6@awi.de"/>
+    <destinationFile fileNamePrefix="RAD_Extraktion_Heiko_1503270000" fileFormat="ASCII" maxFileSize="1024" path="/data/DMS_Extraction/results">
+        <format columnSeparator="\t" dateTimeFormat="YYYY_SLASH_MM_SLASH_DD_STAR_HH_COLON_mm_COLON_ss" decimalSeparator="Dot" fitToFormat="false" includeHeaderRow="true" nonValidValueAlphanumeric=" " nonValidValueNumeric="9" nonValidValuePosition=" " recordSeparator="\n" secondFractionDigits="6" showInvalidValues="true" skipInvalidLines="true"/>
+    </destinationFile>
+    <extraction dataSource="FullDataSet" endDate="2015-03-27T14:59:20.000Z" intervalUnit="s" intervalValue="1" startDate="2015-03-27T13:37:17.000Z">
+        <channels numberOfChannels="9">
+            <channel channelShortName="TR" columnOrderPosition="1" deviceShortName="KT19analog" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="A" precision="6" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="T_raw" columnOrderPosition="2" deviceShortName="Pyrano_top" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="Ohm" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="RAD_raw" columnOrderPosition="3" deviceShortName="Pyrano_top" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="A" precision="6" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="T_raw" columnOrderPosition="4" deviceShortName="Pyrano_bottom" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="Ohm" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="RAD_raw" columnOrderPosition="5" deviceShortName="Pyrano_bottom" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="A" precision="6" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="T_raw" columnOrderPosition="6" deviceShortName="Pyrgeo_top" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="Ohm" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="RAD_raw" columnOrderPosition="7" deviceShortName="Pyrgeo_top" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="mA" precision="6" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="T_raw" columnOrderPosition="8" deviceShortName="Pyrgeo_bottom" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="Ohm" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="RAD_raw" columnOrderPosition="9" deviceShortName="Pyrgeo_bottom" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="mA" precision="6" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+        </channels>
+    </extraction>
+</orderfile>

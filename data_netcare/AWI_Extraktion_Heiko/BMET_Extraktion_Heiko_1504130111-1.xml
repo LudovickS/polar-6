@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderfile xmlns="http://www.werum.de/schema/orderfile" archiveSetPath="/Polar6/NETCARE_P6_2015/1504130111-dms1-1" orderFileName="BMET_Extraktion_Heiko_1504130111-1.xml" saveOrderFileName="" saveOrder="false" systemName="Polar6">
+    <user emailAddress="" receiveEmail="false" username="polar6@awi.de"/>
+    <destinationFile fileNamePrefix="BMET_Extraktion_Heiko_1504130111-1" fileFormat="ASCII" maxFileSize="1024" path="/data/DMS_Extraction/results">
+        <format columnSeparator="\t" dateTimeFormat="YYYY_SLASH_MM_SLASH_DD_STAR_HH_COLON_mm_COLON_ss" decimalSeparator="Dot" fitToFormat="false" includeHeaderRow="true" nonValidValueAlphanumeric=" " nonValidValueNumeric="9" nonValidValuePosition=" " recordSeparator="\n" secondFractionDigits="6" showInvalidValues="true" skipInvalidLines="true"/>
+    </destinationFile>
+    <extraction dataSource="FullDataSet" endDate="2015-04-13T20:59:23.000Z" intervalUnit="s" intervalValue="1" startDate="2015-04-13T16:36:39.000Z">
+        <channels numberOfChannels="5">
+            <channel channelShortName="DP_raw" columnOrderPosition="1" deviceShortName="Setra239R_4" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="V" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="H_raw" columnOrderPosition="2" deviceShortName="HMT333_4" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="A" precision="6" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="T_raw" columnOrderPosition="3" deviceShortName="HMT333_4" fieldWidth="10" meanCalculation="Numeric" outputFormat="Real" physicalUnit="A" precision="6" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="SPF_raw" columnOrderPosition="4" deviceShortName="Setra278_3" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="V" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="TATD_raw" columnOrderPosition="5" deviceShortName="RM102EK1BB_2" fieldWidth="6" meanCalculation="Numeric" outputFormat="Real" physicalUnit="Ohm" precision="3" sampleRate="1" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+        </channels>
+    </extraction>
+</orderfile>

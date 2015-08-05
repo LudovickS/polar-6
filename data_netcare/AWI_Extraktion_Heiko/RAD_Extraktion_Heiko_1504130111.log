@@ -1,0 +1,670 @@
+YYYY/MM/DD	HH:mm:ss	Type	Level	Origin	Message
+2015/04/13	14:57:18.887225	Information	0	ValuePool	VP_dms1: Started
+2015/04/13	14:57:18.898791	Information	0	ValuePool	VP_dms1: V2.7.13.6
+2015/04/13	14:57:23.827497	Information	0	ValuePool	VP_dms1 Cons.: ErrorLogger at dms1 with IP 192.168.75.50 port 39007
+2015/04/13	14:57:27.033584	Information	1229466086	DMS.DMS_ExternalDeviceMonitor	[Main - Start] Started successfully
+2015/04/13	14:57:27.033664	Information	1657713527	DMS.DMS_ExternalDeviceMonitor	[Main - Debugging] Off
+2015/04/13	14:57:28.182157	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:28.545814	Information	1229466086	DMS.DMS_Frontend.ADAC1	[Main - Start] Started successfully [ADAC1]
+2015/04/13	14:57:28.545859	Information	1657713527	DMS.DMS_Frontend.ADAC1	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ADAC1.properties]
+2015/04/13	14:57:28.683339	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:29.184665	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:29.685840	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:29.699579	Information	1964552444	DMS.DMS_Frontend.ADAC1	[Configuration - Loaded] 
+2015/04/13	14:57:29.707783	Information	1916564851	DMS.DMS_Frontend.ADAC1	[Filedump-Storage - Start] Started successfully
+2015/04/13	14:57:29.707783	Information	452586908	DMS.DMS_Frontend.ADAC1	[Online-Display - Start] Started successfully
+2015/04/13	14:57:29.707786	Information	416757256	DMS.DMS_Frontend.ADAC1	[Database-Storage - Start] Started successfully
+2015/04/13	14:57:29.708492	Information	857351104	DMS.DMS_Frontend.ADAC1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:29.708953	Error	2066695828	DMS.DMS_Frontend.ADAC1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/13	14:57:29.714859	Information	2043744590	DMS.DMS_Frontend.ADAC1	[DataLogger - Connection Established] localhost:5432
+2015/04/13	14:57:29.728144	Information	567668653	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Established] client-mode 192.168.75.10:30000
+2015/04/13	14:57:30.186897	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:30.687965	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:31.189016	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:31.690098	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:32.191156	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:32.692213	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:33.193302	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:33.694281	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:34.127202	Information	1229466086	DMS.DMS_Frontend.ADAN1	[Main - Start] Started successfully [ADAN1]
+2015/04/13	14:57:34.127247	Information	1657713527	DMS.DMS_Frontend.ADAN1	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ADAN1.properties]
+2015/04/13	14:57:34.195727	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:34.697105	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:35.198196	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:35.209595	Information	857351104	DMS.DMS_Frontend.ADAC1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:35.210026	Error	2066695828	DMS.DMS_Frontend.ADAC1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/13	14:57:35.284672	Information	1964552444	DMS.DMS_Frontend.ADAN1	[Configuration - Loaded] 
+2015/04/13	14:57:35.286748	Information	1916564851	DMS.DMS_Frontend.ADAN1	[Filedump-Storage - Start] Started successfully
+2015/04/13	14:57:35.286827	Information	416757256	DMS.DMS_Frontend.ADAN1	[Database-Storage - Start] Started successfully
+2015/04/13	14:57:35.286836	Information	452586908	DMS.DMS_Frontend.ADAN1	[Online-Display - Start] Started successfully
+2015/04/13	14:57:35.287545	Information	857351104	DMS.DMS_Frontend.ADAN1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:35.291907	Information	2043744590	DMS.DMS_Frontend.ADAN1	[DataLogger - Connection Established] localhost:5432
+2015/04/13	14:57:35.301375	Information	567668653	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Established] client-mode 192.168.75.11:30000
+2015/04/13	14:57:35.329566	Error	2066695828	DMS.DMS_Frontend.ADAN1	[ValuePool - Configuration Failed] [../src/Configurator.cpp compile() 72]: Can't compile configuration: 1000-29 | [ValuePool: Resolve 16954]: Parameter unknown: "GPS1.LAT_DEG" near position 25Formula: "UF_Bearing (GPS1.LAT_DEG, GPS1.LON_DEG, SYS.NEXT_WP_LAT, SYS.NEXT_WP_LON)": Parameter: "SYS.BEARING_TO_NEXT_WP"; Parameter unknown: "GPS1.LAT_DEG" near position 25Formula: "UF_Bearing (GPS1.LAT_DEG, GPS1.LON_DEG, SYS.PREVIOUS_WP_LAT, SYS.PREVIOUS_WP_LON)": Parameter: "SYS.BEARING_TO_PREVIOUS_WP"; Parameter u
+2015/04/13	14:57:35.699292	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:36.200373	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:36.701413	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:37.202457	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:37.703473	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:38.204562	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:38.705677	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:39.206704	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:39.707534	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:39.714820	Information	1229466086	DMS.DMS_Frontend.ADAR1	[Main - Start] Started successfully [ADAR1]
+2015/04/13	14:57:39.714849	Information	1657713527	DMS.DMS_Frontend.ADAR1	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ADAR1.properties]
+2015/04/13	14:57:40.208868	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:40.710423	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:40.710541	Information	857351104	DMS.DMS_Frontend.ADAC1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:40.788890	Information	857351104	DMS.DMS_Frontend.ADAN1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:40.789533	Error	2066695828	DMS.DMS_Frontend.ADAN1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/13	14:57:40.892201	Information	1964552444	DMS.DMS_Frontend.ADAR1	[Configuration - Loaded] 
+2015/04/13	14:57:40.895537	Information	416757256	DMS.DMS_Frontend.ADAR1	[Database-Storage - Start] Started successfully
+2015/04/13	14:57:40.895637	Information	1916564851	DMS.DMS_Frontend.ADAR1	[Filedump-Storage - Start] Started successfully
+2015/04/13	14:57:40.895720	Information	452586908	DMS.DMS_Frontend.ADAR1	[Online-Display - Start] Started successfully
+2015/04/13	14:57:40.896389	Information	857351104	DMS.DMS_Frontend.ADAR1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:40.897278	Error	2066695828	DMS.DMS_Frontend.ADAR1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/13	14:57:40.901896	Information	2043744590	DMS.DMS_Frontend.ADAR1	[DataLogger - Connection Established] localhost:5432
+2015/04/13	14:57:40.908938	Information	567668653	DMS.DMS_Frontend.ADAR1	[Subsystem - Connection Established] client-mode 192.168.75.12:30000
+2015/04/13	14:57:41.211318	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:57:41.299993	Information	291977682	DMS.DMS_ExternalDeviceMonitor	[Main - Init] Found 16 external devices and defined 176 channels.
+2015/04/13	14:57:45.303957	Information	1229466086	DMS.DMS_ChannelDump	[Main - Start] Started successfully
+2015/04/13	14:57:45.304010	Information	1657713527	DMS.DMS_ChannelDump	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ChannelDump.properties]
+2015/04/13	14:57:46.289686	Information	857351104	DMS.DMS_Frontend.ADAN1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:46.397688	Information	857351104	DMS.DMS_Frontend.ADAR1	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:57:46.528449	Warning	0	ValuePool	VP_dms1 Prod.: DMS_Frontend at dms1 with IP 192.168.75.50 port 40844: At least one sample discarded for "Setra239R_4.DP_raw"
+2015/04/13	14:57:46.529603	Warning	0	ValuePool	VP_dms1 Prod.: DMS_Frontend at dms1 with IP 192.168.75.50 port 40844: At least one sample discarded for "Setra278_3.SPF_raw"
+2015/04/13	14:57:46.883801	Information	1229466086	DMS.DMS_SystemMonitor	[Main - Start] Started successfully
+2015/04/13	14:57:46.883839	Information	1657713527	DMS.DMS_SystemMonitor	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.SystemMonitor.properties]
+2015/04/13	14:57:46.884644	Information	1964552444	DMS.DMS_SystemMonitor	[Configuration - Loaded] 31 components will be monitored
+2015/04/13	14:58:10.325355	Information	857351104	DMS.DMS_ChannelDump	[ValuePool - Connection Established] localhost:13000
+2015/04/13	14:58:10.645683	Information	2043744590	DMS.DMS_ChannelDump	[DataLogger - Connection Established] localhost:5432
+2015/04/13	14:58:10.759766	Information	291977682	DMS.DMS_ChannelDump	[Main - Init]  Found 721 channels to dump in database.
+2015/04/13	14:58:21.912499	Information	857351104	DMS.DMS_SystemMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/13	14:58:21.919405	Information	291977682	DMS.DMS_SystemMonitor	[Main - Init] 31 channels to monitor
+2015/04/13	14:58:22.020704	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/13	14:58:22.020735	Information	1137979518	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Generator Current] CurrentState = 000110001: Error
+2015/04/13	14:58:22.020766	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001111: Error
+2015/04/13	14:58:22.020791	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001111: Error
+2015/04/13	14:58:22.020815	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001111: Error
+2015/04/13	14:58:22.020889	Error	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] OldState = 100000000: Timed out
+2015/04/13	14:58:22.021023	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/13	14:58:22.021194	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000000000, New State = 100111111
+2015/04/13	14:58:23.021917	Error	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] OldState = 100000000: Timed out
+2015/04/13	14:58:23.022015	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/13	14:59:09.618601	Warning	41347049	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 11(GPS2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 11 is corrupt, header->_timestamp=d0ce9ae8 1970-Jan-01 00:00:03.503201
+2015/04/13	14:59:10.021233	Warning	41347049	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 11(GPS2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 11 is corrupt, header->_timestamp=d0ce9ae8 1970-Jan-01 00:00:03.503201
+2015/04/13	14:59:10.068776	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:10.068810	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:10.068836	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	14:59:10.068860	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/13	14:59:11.070251	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000010: Error
+2015/04/13	14:59:20.078616	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:20.078667	Error	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] OldState = 100000000: Timed out
+2015/04/13	14:59:21.079646	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:21.079692	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:22.080630	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:23.081593	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	14:59:23.081614	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:23.081629	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:23.081750	Error	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] OldState = 100000000: Timed out
+2015/04/13	14:59:23.081912	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111111, New State = 100111011
+2015/04/13	14:59:24.082639	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/13	14:59:24.082673	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/13	14:59:24.082688	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	14:59:24.082701	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/13	14:59:24.082719	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:24.082733	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:24.082747	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	14:59:24.082761	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/13	14:59:24.082780	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000000: OK
+2015/04/13	14:59:24.082798	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	14:59:24.082974	Information	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] Reset [Number of occurrences = 62]
+2015/04/13	14:59:24.083105	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111011, New State = 100111001
+2015/04/13	14:59:25.084122	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/13	14:59:25.084156	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/13	14:59:25.084181	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:25.084204	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:25.084227	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	14:59:25.084250	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/13	14:59:25.084274	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/13	14:59:25.084298	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	14:59:25.084320	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/13	14:59:25.084354	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:26.085380	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/13	14:59:26.085402	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	14:59:26.085417	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	14:59:26.085669	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111001, New State = 100110001
+2015/04/13	14:59:27.086591	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/13	14:59:27.086618	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/13	14:59:29.088519	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/13	14:59:29.088805	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 100111001
+2015/04/13	14:59:30.089522	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	14:59:30.089789	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111001, New State = 100110001
+2015/04/13	14:59:51.109043	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/13	14:59:51.109066	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	14:59:51.109081	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/13	14:59:51.109097	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/13	14:59:51.109116	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	14:59:51.109139	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	14:59:51.109378	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 100111001
+2015/04/13	14:59:52.110066	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	14:59:52.110088	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/13	14:59:52.110331	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111001, New State = 100110001
+2015/04/13	15:00:02.120803	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/13	15:00:02.120919	Information	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] Reset [Number of occurrences = 100]
+2015/04/13	15:00:02.121211	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 000111001
+2015/04/13	15:00:03.122082	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/13	15:00:03.122451	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000111001, New State = 000110001
+2015/04/13	15:00:04.123244	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/13	15:00:04.123281	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/13	15:00:06.125330	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/13	15:00:06.125631	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000110001, New State = 000111001
+2015/04/13	15:00:07.126356	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	15:00:07.126385	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/13	15:00:08.127494	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	15:00:08.127517	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/13	15:00:08.127536	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/13	15:00:08.127808	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000111001, New State = 000110001
+2015/04/13	15:40:52.672685	Error	696670766	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADC] OldState = 100000000: Timed out
+2015/04/13	15:40:52.672882	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000110001, New State = 100110001
+2015/04/13	15:40:53.673684	Error	696670766	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADC] OldState = 100000000: Timed out
+2015/04/13	15:40:53.673750	Error	697686998	DMS.DMS_SystemMonitor.Channels	[Main - Timeout INS] OldState = 100000000: Timed out
+2015/04/13	15:40:54.674711	Error	697686998	DMS.DMS_SystemMonitor.Channels	[Main - Timeout INS] OldState = 100000000: Timed out
+2015/04/13	15:55:27.677157	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:27.677179	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:27.677194	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:27.677225	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:27.677453	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 100110111
+2015/04/13	15:55:28.678053	Information	1814591369	DMS.DMS_SystemMonitor.Channels	[Main - StateChange KT19 analog] CurrentState = 000000110: Error
+2015/04/13	15:55:28.678079	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000000110: Error
+2015/04/13	15:55:28.678161	Error	1841902747	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Slow 3] OldState = 100000000: Timed out
+2015/04/13	15:55:29.678910	Error	601752937	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS1] OldState = 100000000: Timed out
+2015/04/13	15:55:29.678965	Error	1841902747	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Slow 3] OldState = 100000000: Timed out
+2015/04/13	15:55:29.679024	Error	852525525	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Generator Current] OldState = 100000000: Timed out
+2015/04/13	15:55:29.679046	Error	852525525	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Generator Current] OldState = 100000000: Timed out
+2015/04/13	15:55:29.679147	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110111, New State = 100000110
+2015/04/13	15:55:30.679794	Error	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679840	Error	601752937	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS1] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679862	Error	1304717209	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAN1] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679876	Error	1304718145	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAC1] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679902	Error	601752942	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS4] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679924	Error	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679949	Error	1958377767	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Radar Altimeter] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679970	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/13	15:55:30.679995	Error	852525525	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Generator Current] OldState = 100000000: Timed out
+2015/04/13	15:55:30.680025	Error	852525525	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Generator Current] OldState = 100000000: Timed out
+2015/04/13	15:55:30.887572	Error	1512021552	DMS.DMS_Frontend.ADAC1	[Subsystem - Receive Timeout] ADAC1 [client-mode 192.168.75.10:30000] 00:00:10 (hh:mm:ss)
+2015/04/13	15:55:30.925433	Error	1512021552	DMS.DMS_Frontend.ADAN1	[Subsystem - Receive Timeout] ADAN1 [client-mode 192.168.75.11:30000] 00:00:10 (hh:mm:ss)
+2015/04/13	15:55:31.680703	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000001: Error
+2015/04/13	15:55:31.680731	Error	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680794	Error	1304717209	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAN1] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680808	Error	1304718145	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAC1] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680836	Error	601752942	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS4] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680855	Error	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680868	Error	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680886	Error	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680903	Error	1958377767	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Radar Altimeter] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680917	Error	1121436275	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Dynamic Pressure 4] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680935	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/13	15:55:31.680964	Error	1597477327	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Fast 3] OldState = 100000000: Timed out
+2015/04/13	15:55:31.681072	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100000110, New State = 100000111
+2015/04/13	15:55:32.681660	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000001: Error
+2015/04/13	15:55:32.681762	Error	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] OldState = 100000000: Timed out
+2015/04/13	15:55:32.681795	Error	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] OldState = 100000000: Timed out
+2015/04/13	15:55:32.681821	Error	1121436275	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Dynamic Pressure 4] OldState = 100000000: Timed out
+2015/04/13	15:55:32.681865	Error	1597477327	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Fast 3] OldState = 100000000: Timed out
+2015/04/13	15:55:39.888548	Error	816659232	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Failure] ADAC1 [client-mode 192.168.75.10:30000]Can't connect to host: Connection refused
+2015/04/13	15:55:39.925327	Information	567668653	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Established] client-mode 192.168.75.11:30000
+2015/04/13	15:55:40.086429	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error]  sequence-counter not valid (37784|37593)
+2015/04/13	15:55:40.086608	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error]  sequence-counter not valid (37784|37593)
+2015/04/13	15:55:40.146938	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error]  sequence-counter not valid (37784|37592)
+2015/04/13	15:55:40.147077	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error]  sequence-counter not valid (37784|37592)
+2015/04/13	15:55:40.208308	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error]  sequence-counter not valid (3781|3762)
+2015/04/13	15:55:40.690226	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000110: Error
+2015/04/13	15:55:40.690248	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000110: Error
+2015/04/13	15:55:40.690264	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000110: Error
+2015/04/13	15:55:40.690279	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000110: Error
+2015/04/13	15:55:40.690293	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000000110: Error
+2015/04/13	15:55:40.690366	Information	1304717209	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAN1] Reset [Number of occurrences = 10]
+2015/04/13	15:55:40.690412	Information	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] Reset [Number of occurrences = 9]
+2015/04/13	15:55:40.690441	Information	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] Reset [Number of occurrences = 9]
+2015/04/13	15:55:40.690469	Information	1121436275	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Dynamic Pressure 4] Reset [Number of occurrences = 9]
+2015/04/13	15:55:40.690514	Information	1597477327	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Fast 3] Reset [Number of occurrences = 9]
+2015/04/13	15:55:40.889358	Error	816659232	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Failure] ADAC1 [client-mode 192.168.75.10:30000]Can't connect to host: Connection refused
+2015/04/13	15:55:41.691298	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000010: Error
+2015/04/13	15:55:41.890103	Error	816659232	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Failure] ADAC1 [client-mode 192.168.75.10:30000]Can't connect to host: Connection refused
+2015/04/13	15:55:42.010248	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error]  sequence-counter not valid (1889|1879)
+2015/04/13	15:55:42.692210	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000110: Error
+2015/04/13	15:55:42.692239	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000000: OK
+2015/04/13	15:55:42.692344	Information	1841902747	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Slow 3] Reset [Number of occurrences = 14]
+2015/04/13	15:55:43.693181	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000010: Error
+2015/04/13	15:55:45.694952	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000000: OK
+2015/04/13	15:55:50.702390	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702430	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702454	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702477	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702500	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702524	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:50.702547	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:50.702569	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:50.702591	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:50.702621	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702643	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702665	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702687	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001111: Error
+2015/04/13	15:55:50.702711	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000000110: Error
+2015/04/13	15:55:50.702751	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:50.702776	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:50.703136	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100000111, New State = 100001111
+2015/04/13	15:55:51.703833	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703861	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703875	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:51.703889	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:51.703903	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703921	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703934	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703947	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703960	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001111: Error
+2015/04/13	15:55:51.703978	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:51.703991	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:51.704003	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000110: Error
+2015/04/13	15:55:51.704016	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000110: Error
+2015/04/13	15:55:51.704031	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000000110: Error
+2015/04/13	15:55:51.704048	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000000110: Error
+2015/04/13	15:55:52.704973	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000110: Error
+2015/04/13	15:55:52.704994	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000001111: Error
+2015/04/13	15:55:54.706825	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000110: Error
+2015/04/13	15:55:54.707079	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100001111, New State = 100000111
+2015/04/13	15:56:03.715403	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715434	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715450	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715464	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715479	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715493	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715506	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:03.715519	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:03.715532	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:03.715545	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:03.715560	Information	1814591369	DMS.DMS_SystemMonitor.Channels	[Main - StateChange KT19 analog] CurrentState = 000000000: OK
+2015/04/13	15:56:03.715574	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715588	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715602	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715615	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715629	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:03.715875	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100000111, New State = 100001001
+2015/04/13	15:56:04.716815	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000000: OK
+2015/04/13	15:56:04.716857	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000001001: Error
+2015/04/13	15:56:04.716883	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:04.716907	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:04.716931	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.716955	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.716982	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717006	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717030	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717057	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717080	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717103	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717129	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717151	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717172	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717195	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717218	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717241	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717266	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717290	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717312	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717336	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717362	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717386	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717409	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717432	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717455	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717480	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717505	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717527	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717553	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717579	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717604	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717628	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717653	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717676	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717699	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717727	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000001001: Error
+2015/04/13	15:56:04.717750	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717781	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717808	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:04.717832	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:05.718816	Information	49561837	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAR1] CurrentState = 000000000: OK
+2015/04/13	15:56:05.718841	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:05.718861	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:05.718875	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000001001: Error
+2015/04/13	15:56:05.718889	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000001001: Error
+2015/04/13	15:56:05.718902	Information	1734783543	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:05.718915	Information	1734783496	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyranometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:05.718928	Information	2101515493	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 2] CurrentState = 000000000: OK
+2015/04/13	15:56:05.718941	Information	2101515514	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Pyrgeometer 1] CurrentState = 000000000: OK
+2015/04/13	15:56:05.907701	Information	816659232	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Failure] Reset [Number of occurrences = 26]
+2015/04/13	15:56:05.907758	Information	567668653	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Established] client-mode 192.168.75.10:30000
+2015/04/13	15:56:08.019688	Warning	554570161	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 7(INS) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 7 is corrupt, header->_timestamp=96970680 1970-Jan-01 00:00:02.526480
+2015/04/13	15:56:08.140138	Warning	554570161	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 7(INS) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 7 is corrupt, header->_timestamp=9c6118a8 1970-Jan-01 00:00:02.623609
+2015/04/13	15:56:08.160076	Warning	1882465545	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 9(RADALT) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 9 is corrupt, header->_timestamp=9af8e1d0 1970-Jan-01 00:00:02.600002
+2015/04/13	15:56:08.200336	Warning	554570161	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 7(INS) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 7 is corrupt, header->_timestamp=9c6118a8 1970-Jan-01 00:00:02.623609
+2015/04/13	15:56:08.260732	Warning	1882465545	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 9(RADALT) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 9 is corrupt, header->_timestamp=9af8e1d0 1970-Jan-01 00:00:02.600002
+2015/04/13	15:56:08.461507	Warning	554570161	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 7(INS) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 7 is corrupt, header->_timestamp=a1c43370 1970-Jan-01 00:00:02.713990
+2015/04/13	15:56:08.461750	Warning	1882465545	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 9(RADALT) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 9 is corrupt, header->_timestamp=a0eec2d0 1970-Jan-01 00:00:02.700002
+2015/04/13	15:56:08.481877	Warning	1882465545	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 9(RADALT) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 9 is corrupt, header->_timestamp=a6e4a3d0 1970-Jan-01 00:00:02.800002
+2015/04/13	15:56:08.482199	Warning	1882465545	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 9(RADALT) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 9 is corrupt, header->_timestamp=acda88b8 1970-Jan-01 00:00:02.900003
+2015/04/13	15:56:08.502077	Warning	554570161	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 7(INS) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 7 is corrupt, header->_timestamp=a726dcf0 1970-Jan-01 00:00:02.804342
+2015/04/13	15:56:08.522176	Warning	1768682576	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 5(ADAC1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 5 is corrupt, header->_timestamp=b2d061e8 1970-Jan-01 00:00:03.000001
+2015/04/13	15:56:08.722003	Information	49564728	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAC1] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722040	Information	9039988	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Radar Altimeter] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722065	Information	1688366479	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS1] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722089	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722117	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722139	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722163	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722188	Information	1137979518	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Generator Current] CurrentState = 000001111: Error
+2015/04/13	15:56:08.722223	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000010: Error
+2015/04/13	15:56:08.722273	Information	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] Reset [Number of occurrences = 38]
+2015/04/13	15:56:08.722341	Information	601752937	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS1] Reset [Number of occurrences = 39]
+2015/04/13	15:56:08.722393	Information	1304718145	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAC1] Reset [Number of occurrences = 38]
+2015/04/13	15:56:08.722450	Information	601752942	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS4] Reset [Number of occurrences = 38]
+2015/04/13	15:56:08.722494	Information	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] Reset [Number of occurrences = 38]
+2015/04/13	15:56:08.722541	Information	1958377767	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Radar Altimeter] Reset [Number of occurrences = 38]
+2015/04/13	15:56:08.722591	Information	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] Reset [Number of occurrences = 38]
+2015/04/13	15:56:08.722639	Information	852525525	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Generator Current] Reset [Number of occurrences = 39]
+2015/04/13	15:56:08.722689	Information	852525525	DMS.DMS_SystemMonitor.Channels	[Main - Timeout Generator Current] Reset [Number of occurrences = 39]
+2015/04/13	15:56:08.722843	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100001001, New State = 100001111
+2015/04/13	15:56:08.944991	Warning	1625344678	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 19(GENCUR) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 19 is corrupt, header->_timestamp=9af8e1d0 1970-Jan-01 00:00:02.600002
+2015/04/13	15:56:09.450355	Warning	1768682576	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 5(ADAC1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 5 is corrupt, header->_timestamp=ee6b33b8 1970-Jan-01 00:00:04.000003
+2015/04/13	15:56:09.934947	Warning	1625344678	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 19(GENCUR) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 19 is corrupt, header->_timestamp=d693abd0 1970-Jan-01 00:00:03.600002
+2015/04/13	15:56:10.236467	Information	554570161	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 7(INS) Error] Reset [Number of occurrences = 25]
+2015/04/13	15:56:10.356821	Information	1882465545	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 9(RADALT) Error] Reset [Number of occurrences = 23]
+2015/04/13	15:56:10.724380	Information	49564728	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAC1] CurrentState = 000000000: OK
+2015/04/13	15:56:10.724414	Information	9039988	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Radar Altimeter] CurrentState = 000000000: OK
+2015/04/13	15:56:10.724615	Information	697686998	DMS.DMS_SystemMonitor.Channels	[Main - Timeout INS] Reset [Number of occurrences = 916]
+2015/04/13	15:56:10.959928	Warning	1625344678	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 19(GENCUR) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 19 is corrupt, header->_timestamp=1122e71e8 1970-Jan-01 00:00:04.600001
+2015/04/13	15:56:11.582924	Warning	1625344678	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 19(GENCUR) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 19 is corrupt, header->_timestamp=1122e71e8 1970-Jan-01 00:00:04.600001
+2015/04/13	15:56:12.726324	Information	49562088	DMS.DMS_SystemMonitor.Channels	[Main - StateChange ADAN1] CurrentState = 000000000: OK
+2015/04/13	15:56:12.726350	Information	1137979518	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Generator Current] CurrentState = 000110001: Error
+2015/04/13	15:56:12.726365	Information	1137979518	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Generator Current] CurrentState = 000000000: OK
+2015/04/13	15:56:12.726386	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000000: OK
+2015/04/13	15:56:12.726615	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100001111, New State = 100111111
+2015/04/13	15:56:13.727406	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000000: OK
+2015/04/13	15:56:13.727428	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000001001: Error
+2015/04/13	15:56:14.728472	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000000: OK
+2015/04/13	15:56:16.730609	Error	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] OldState = 100000000: Timed out
+2015/04/13	15:56:16.730675	Error	601752937	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS1] OldState = 100000000: Timed out
+2015/04/13	15:56:16.730745	Error	601752942	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS4] OldState = 100000000: Timed out
+2015/04/13	15:56:16.730769	Error	1841902747	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Slow 3] OldState = 100000000: Timed out
+2015/04/13	15:56:16.730807	Error	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] OldState = 100000000: Timed out
+2015/04/13	15:56:16.730869	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/13	15:56:16.731060	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111111, New State = 100110001
+2015/04/13	15:56:17.731662	Error	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] OldState = 100000000: Timed out
+2015/04/13	15:56:17.731706	Error	601752937	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS1] OldState = 100000000: Timed out
+2015/04/13	15:56:17.731749	Error	601752942	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS4] OldState = 100000000: Timed out
+2015/04/13	15:56:17.731766	Error	1841902747	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Slow 3] OldState = 100000000: Timed out
+2015/04/13	15:56:17.731799	Error	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] OldState = 100000000: Timed out
+2015/04/13	15:56:17.731860	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/13	15:56:18.732633	Error	1304717209	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAN1] OldState = 100000000: Timed out
+2015/04/13	15:56:19.733605	Error	1304717209	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAN1] OldState = 100000000: Timed out
+2015/04/13	15:56:19.733652	Error	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] OldState = 100000000: Timed out
+2015/04/13	15:56:19.733674	Error	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] OldState = 100000000: Timed out
+2015/04/13	15:56:19.733695	Error	1121436275	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Dynamic Pressure 4] OldState = 100000000: Timed out
+2015/04/13	15:56:19.733733	Error	1597477327	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Fast 3] OldState = 100000000: Timed out
+2015/04/13	15:56:20.287937	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error]  sequence-counter not valid (38079|38078)
+2015/04/13	15:56:20.288119	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error]  sequence-counter not valid (38079|38078)
+2015/04/13	15:56:20.328759	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error]  sequence-counter not valid (38080|38078)
+2015/04/13	15:56:20.328904	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error]  sequence-counter not valid (38080|38078)
+2015/04/13	15:56:20.734731	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:20.734767	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:20.734792	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:20.734815	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:20.734848	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:20.734872	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:20.734897	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:20.734921	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:20.734945	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:20.734974	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:20.734998	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:20.735021	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:20.735175	Error	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] OldState = 100000000: Timed out
+2015/04/13	15:56:20.735211	Error	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] OldState = 100000000: Timed out
+2015/04/13	15:56:20.735247	Error	1121436275	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Dynamic Pressure 4] OldState = 100000000: Timed out
+2015/04/13	15:56:20.735310	Error	1597477327	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Fast 3] OldState = 100000000: Timed out
+2015/04/13	15:56:20.777945	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error]  sequence-counter not valid (3814|3813)
+2015/04/13	15:56:21.736405	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736439	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736463	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736489	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736513	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736537	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736561	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736585	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736614	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736637	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736660	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736693	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736717	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736741	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:21.736765	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736789	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:21.736822	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000010: Error
+2015/04/13	15:56:21.737188	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 100110011
+2015/04/13	15:56:22.101037	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error]  sequence-counter not valid (1910|1908)
+2015/04/13	15:56:22.738011	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:22.738033	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:22.738047	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:22.738061	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:22.738075	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:22.738088	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:22.738101	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:22.738114	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:22.738137	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000000: OK
+2015/04/13	15:56:22.738241	Information	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] Reset [Number of occurrences = 3]
+2015/04/13	15:56:22.738269	Information	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] Reset [Number of occurrences = 3]
+2015/04/13	15:56:22.738420	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110011, New State = 100110001
+2015/04/13	15:56:23.102944	Warning	71390389	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 10(GPS1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 10 is corrupt, header->_timestamp=d4306388 1970-Jan-01 00:00:03.559941
+2015/04/13	15:56:23.605439	Warning	71390389	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 10(GPS1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 10 is corrupt, header->_timestamp=d4306388 1970-Jan-01 00:00:03.559941
+2015/04/13	15:56:23.739089	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:23.739111	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:23.739125	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:23.739140	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:23.739153	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:23.739167	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:23.739181	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:23.739194	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:23.739216	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000010: Error
+2015/04/13	15:56:23.739235	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000010: Error
+2015/04/13	15:56:23.739323	Error	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] OldState = 100000000: Timed out
+2015/04/13	15:56:23.739344	Error	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] OldState = 100000000: Timed out
+2015/04/13	15:56:23.739486	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 100110011
+2015/04/13	15:56:24.740194	Information	601752937	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS1] Reset [Number of occurrences = 8]
+2015/04/13	15:56:24.740256	Error	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] OldState = 100000000: Timed out
+2015/04/13	15:56:24.740278	Error	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] OldState = 100000000: Timed out
+2015/04/13	15:56:25.741062	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000000: OK
+2015/04/13	15:56:28.314797	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error]  sequence-counter not valid (38130|38128)
+2015/04/13	15:56:28.334827	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error]  sequence-counter not valid (38131|38127)
+2015/04/13	15:56:28.334981	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error]  sequence-counter not valid (38131|38127)
+2015/04/13	15:56:28.355455	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error]  sequence-counter not valid (38131|38127)
+2015/04/13	15:56:28.743527	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:28.743550	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:28.743565	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:28.743579	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:28.743592	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:28.743606	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744633	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744656	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744671	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744685	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744699	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744712	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744725	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744738	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744754	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744767	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744788	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744802	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744820	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744834	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:29.744847	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:29.744860	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:30.306332	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error]  sequence-counter not valid (1914|1911)
+2015/04/13	15:56:30.746057	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746092	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746117	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:30.746140	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:30.746165	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746192	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746216	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:30.746240	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:30.746270	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746294	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746318	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:30.746341	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:31.747611	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:31.747647	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:33.749515	Information	601752936	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS2] Reset [Number of occurrences = 17]
+2015/04/13	15:56:34.750335	Information	601752943	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS3] Reset [Number of occurrences = 18]
+2015/04/13	15:56:35.751309	Information	601752942	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS4] Reset [Number of occurrences = 19]
+2015/04/13	15:56:36.319675	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error]  sequence-counter not valid (38181|38178)
+2015/04/13	15:56:36.319818	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error]  sequence-counter not valid (38183|38179)
+2015/04/13	15:56:36.319952	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error]  sequence-counter not valid (38183|38179)
+2015/04/13	15:56:36.340314	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error]  sequence-counter not valid (38182|38178)
+2015/04/13	15:56:36.752201	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:36.752223	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:36.752238	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:36.752253	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:36.752267	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:36.752280	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:36.752293	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:36.752306	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:36.752319	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:36.752333	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:36.752474	Information	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] Reset [Number of occurrences = 20]
+2015/04/13	15:56:37.753332	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753355	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753370	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753384	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753402	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753416	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753428	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753442	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753459	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753473	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753486	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753499	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753512	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:37.753525	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753538	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:37.753552	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:38.258944	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error]  sequence-counter not valid (1918|1915)
+2015/04/13	15:56:38.754648	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:38.754670	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:38.754685	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:38.754698	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:38.754712	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:38.754725	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:38.754744	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:38.754758	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:39.755714	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000001001: Error
+2015/04/13	15:56:39.755737	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000001001: Error
+2015/04/13	15:56:39.755752	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001001: Error
+2015/04/13	15:56:39.755767	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001001: Error
+2015/04/13	15:56:39.755792	Information	1731311075	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Dynamic Pressure 4] CurrentState = 000000000: OK
+2015/04/13	15:56:39.755806	Information	471825597	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Fast 3] CurrentState = 000000000: OK
+2015/04/13	15:56:39.755819	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:56:39.755832	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:56:49.107050	Error	1512021552	DMS.DMS_Frontend.ADAN1	[Subsystem - Receive Timeout] ADAN1 [client-mode 192.168.75.11:30000] 00:00:10 (hh:mm:ss)
+2015/04/13	15:56:49.107907	Error	816659232	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Failure] ADAN1 [client-mode 192.168.75.11:30000]Can't connect to host: Connection refused
+2015/04/13	15:56:50.108624	Error	816659232	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Failure] ADAN1 [client-mode 192.168.75.11:30000]Can't connect to host: Connection refused
+2015/04/13	15:56:50.767699	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000011: Error
+2015/04/13	15:56:51.109385	Error	816659232	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Failure] ADAN1 [client-mode 192.168.75.11:30000]Can't connect to host: Connection refused
+2015/04/13	15:57:10.352100	Information	816659232	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Failure] Reset [Number of occurrences = 20]
+2015/04/13	15:57:10.352179	Information	567668653	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Established] client-mode 192.168.75.11:30000
+2015/04/13	15:57:13.323219	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 46 is corrupt, header->_timestamp=8f10b9b0 1970-Jan-01 00:00:02.400238
+2015/04/13	15:57:13.323407	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 33 is corrupt, header->_timestamp=9502f900 1970-Jan-01 00:00:02.500000
+2015/04/13	15:57:13.343185	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 1 is corrupt, header->_timestamp=950300d0 1970-Jan-01 00:00:02.500002
+2015/04/13	15:57:13.363909	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 46 is corrupt, header->_timestamp=950300d0 1970-Jan-01 00:00:02.500002
+2015/04/13	15:57:13.364257	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 49 is corrupt, header->_timestamp=950300d0 1970-Jan-01 00:00:02.500002
+2015/04/13	15:57:13.383965	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 1 is corrupt, header->_timestamp=9af8e1d0 1970-Jan-01 00:00:02.600002
+2015/04/13	15:57:13.384151	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 33 is corrupt, header->_timestamp=9af8e1d0 1970-Jan-01 00:00:02.600002
+2015/04/13	15:57:13.384575	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 46 is corrupt, header->_timestamp=9af8dde8 1970-Jan-01 00:00:02.600001
+2015/04/13	15:57:13.384785	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 49 is corrupt, header->_timestamp=9af8e1d0 1970-Jan-01 00:00:02.600002
+2015/04/13	15:57:13.404800	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 1 is corrupt, header->_timestamp=a0eebee8 1970-Jan-01 00:00:02.700001
+2015/04/13	15:57:13.404986	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 33 is corrupt, header->_timestamp=a0eec2d0 1970-Jan-01 00:00:02.700002
+2015/04/13	15:57:13.405343	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 46 is corrupt, header->_timestamp=a0eebee8 1970-Jan-01 00:00:02.700001
+2015/04/13	15:57:13.405542	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 49 is corrupt, header->_timestamp=a0eebee8 1970-Jan-01 00:00:02.700001
+2015/04/13	15:57:13.405786	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 1 is corrupt, header->_timestamp=a6e49fe8 1970-Jan-01 00:00:02.800001
+2015/04/13	15:57:13.405965	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 33 is corrupt, header->_timestamp=a6e49fe8 1970-Jan-01 00:00:02.800001
+2015/04/13	15:57:13.445909	Warning	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 46 is corrupt, header->_timestamp=a6e49c00 1970-Jan-01 00:00:02.800000
+2015/04/13	15:57:13.466315	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 49 is corrupt, header->_timestamp=a6e49c00 1970-Jan-01 00:00:02.800000
+2015/04/13	15:57:13.466725	Warning	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 1 is corrupt, header->_timestamp=acda7d00 1970-Jan-01 00:00:02.900000
+2015/04/13	15:57:13.467023	Warning	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 33 is corrupt, header->_timestamp=acda80e8 1970-Jan-01 00:00:02.900001
+2015/04/13	15:57:13.486903	Warning	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 49 is corrupt, header->_timestamp=acda7d00 1970-Jan-01 00:00:02.900000
+2015/04/13	15:57:13.792372	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000001111: Error
+2015/04/13	15:57:13.792394	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000001111: Error
+2015/04/13	15:57:13.792409	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000001111: Error
+2015/04/13	15:57:13.792514	Information	1841902747	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Slow 3] Reset [Number of occurrences = 57]
+2015/04/13	15:57:13.792534	Information	1041418365	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Total Air Temperature Deiced 4] Reset [Number of occurrences = 50]
+2015/04/13	15:57:13.792561	Information	1303340375	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Humicap 4] Reset [Number of occurrences = 50]
+2015/04/13	15:57:13.792702	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110011, New State = 100111111
+2015/04/13	15:57:13.911256	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 0 is corrupt, header->_timestamp=caa7e5e8 1970-Jan-01 00:00:03.400001
+2015/04/13	15:57:14.794708	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000010: Error
+2015/04/13	15:57:14.820347	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 55 is corrupt, header->_timestamp=98c52d38 1970-Jan-01 00:00:02.563059
+2015/04/13	15:57:14.881109	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 0 is corrupt, header->_timestamp=10642ac00 1970-Jan-01 00:00:04.400000
+2015/04/13	15:57:15.872086	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 0 is corrupt, header->_timestamp=141dd7dd0 1970-Jan-01 00:00:05.400002
+2015/04/13	15:57:15.972675	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 0 is corrupt, header->_timestamp=141dd7dd0 1970-Jan-01 00:00:05.400002
+2015/04/13	15:57:16.033660	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 55 is corrupt, header->_timestamp=98c52d38 1970-Jan-01 00:00:02.563059
+2015/04/13	15:57:16.802504	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 55 is corrupt, header->_timestamp=1104bc768 1970-Jan-01 00:00:04.568369
+2015/04/13	15:57:16.883412	Warning	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 0 is corrupt, header->_timestamp=17d7847d0 1970-Jan-01 00:00:06.400002
+2015/04/13	15:57:17.045534	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 55 is corrupt, header->_timestamp=1104bc768 1970-Jan-01 00:00:04.568369
+2015/04/13	15:57:17.206980	Information	1377236682	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 1(HMT333_4) Error] Reset [Number of occurrences = 45]
+2015/04/13	15:57:17.227042	Information	2054132817	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 33(RM102EK1BB_2) Error] Reset [Number of occurrences = 45]
+2015/04/13	15:57:17.227527	Information	1655895398	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 46(Setra239R_4) Error] Reset [Number of occurrences = 47]
+2015/04/13	15:57:17.227645	Information	152204686	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 49(Setra278_3) Error] Reset [Number of occurrences = 45]
+2015/04/13	15:57:17.797282	Information	1800705856	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Humicap 4] CurrentState = 000000000: OK
+2015/04/13	15:57:17.797305	Information	786072734	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Total Air Temperature Deiced 4] CurrentState = 000000000: OK
+2015/04/13	15:57:17.797435	Information	1121436275	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Dynamic Pressure 4] Reset [Number of occurrences = 58]
+2015/04/13	15:57:17.797479	Information	1597477327	DMS.DMS_SystemMonitor.Channels	[Main - Timeout BMET_P6 Static Pressure Fast 3] Reset [Number of occurrences = 58]
+2015/04/13	15:57:17.895154	Information	539465295	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 0(ADAN1) Error] Reset [Number of occurrences = 6]
+2015/04/13	15:57:18.798367	Information	1304717209	DMS.DMS_SystemMonitor.Channels	[Main - Timeout ADAN1] Reset [Number of occurrences = 60]
+2015/04/13	15:57:18.827043	Warning	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 55 is corrupt, header->_timestamp=187b5d500 1970-Jan-01 00:00:06.571808
+2015/04/13	15:57:20.812817	Information	1726184510	DMS.DMS_Frontend.ADAN1	[Databuffer - Buffer 55(DPM7885_3) Error] Reset [Number of occurrences = 6]
+2015/04/13	15:57:21.801104	Information	1885513756	DMS.DMS_SystemMonitor.Channels	[Main - StateChange BMET_P6 Static Pressure Slow 3] CurrentState = 000000000: OK
+2015/04/13	15:57:21.801137	Information	1773601097	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAN1] CurrentState = 000000000: OK
+2015/04/13	15:57:21.801378	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111111, New State = 100110001
+2015/04/13	16:33:18.120713	Information	269640418	DMS.DMS_SystemMonitor	[Main - Stop] Stopping
+2015/04/13	16:33:24.409318	Information	269640418	DMS.DMS_ChannelDump	[Main - Stop] Stopped.
+2015/04/13	16:33:25.975798	Information	1007834279	DMS.DMS_Frontend.ADAR1	[Filedump-Storage - Stop] Filedump-Storage terminates it's execution after 5745082ms
+2015/04/13	16:33:25.976242	Information	1070460574	DMS.DMS_Frontend.ADAR1	[Online-Display - Stop] Online-Display terminates it's execution after 5745081ms
+2015/04/13	16:33:25.976371	Information	269640418	DMS.DMS_Frontend.ADAR1	[Main - Stop]  terminates it's execution after 5745070ms
+2015/04/13	16:33:25.979691	Error	104	ValuePool	VP_dms1 Prod.: DMS_Logger at dms1 with IP 192.168.75.50 port 34412: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:25.982295	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 54377: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:25.982844	Error	104	ValuePool	VP_dms1 Prod.: DMS.DMS_Frontend.ADAR1 at dms1 with IP 192.168.75.50 port 55855: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:25.983360	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 35077: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:25.983886	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 55457: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:26.009419	Warning	0	ValuePool	VP_dms1 Cycl.: DMS.DMS_Frontend.ADAR1 at dms1 with IP 192.168.75.50 port 55855: Cleanup Prod.
+2015/04/13	16:33:26.010372	Warning	0	ValuePool	VP_dms1 Cycl.: DMS_Logger at dms1 with IP 192.168.75.50 port 34412: Cleanup Prod.
+2015/04/13	16:33:27.033811	Information	1007834279	DMS.DMS_Frontend.ADAN1	[Filedump-Storage - Stop] Filedump-Storage terminates it's execution after 5751748ms
+2015/04/13	16:33:27.033869	Information	269640418	DMS.DMS_Frontend.ADAN1	[Main - Stop]  terminates it's execution after 5751737ms
+2015/04/13	16:33:27.035205	Information	1070460574	DMS.DMS_Frontend.ADAN1	[Online-Display - Stop] Online-Display terminates it's execution after 5751748ms
+2015/04/13	16:33:27.657300	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 53321: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:27.658195	Error	104	ValuePool	VP_dms1 Prod.: DMS_Logger at dms1 with IP 192.168.75.50 port 38610: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:27.658936	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 41659: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:27.659636	Error	104	ValuePool	VP_dms1 Prod.: DMS.DMS_Frontend.ADAN1 at dms1 with IP 192.168.75.50 port 55142: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:27.660280	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 60737: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:27.727552	Warning	0	ValuePool	VP_dms1 Cycl.: DMS.DMS_Frontend.ADAN1 at dms1 with IP 192.168.75.50 port 55142: Cleanup Prod.
+2015/04/13	16:33:27.728356	Warning	0	ValuePool	VP_dms1 Cycl.: DMS_Logger at dms1 with IP 192.168.75.50 port 38610: Cleanup Prod.
+2015/04/13	16:33:28.086921	Information	1007834279	DMS.DMS_Frontend.ADAC1	[Filedump-Storage - Stop] Filedump-Storage terminates it's execution after 5758386ms
+2015/04/13	16:33:28.087032	Information	269640418	DMS.DMS_Frontend.ADAC1	[Main - Stop]  terminates it's execution after 5758369ms
+2015/04/13	16:33:28.087529	Information	1070460574	DMS.DMS_Frontend.ADAC1	[Online-Display - Stop] Online-Display terminates it's execution after 5758380ms
+2015/04/13	16:33:28.094601	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 48442: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:28.095975	Error	104	ValuePool	VP_dms1 Prod.: DMS_Logger at dms1 with IP 192.168.75.50 port 60809: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:28.096527	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 57117: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:28.097078	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 40627: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:28.097581	Error	104	ValuePool	VP_dms1 Prod.: DMS.DMS_Frontend.ADAC1 at dms1 with IP 192.168.75.50 port 59118: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/13	16:33:28.131759	Warning	0	ValuePool	VP_dms1 Cycl.: DMS.DMS_Frontend.ADAC1 at dms1 with IP 192.168.75.50 port 59118: Cleanup Prod.
+2015/04/13	16:33:28.132414	Warning	0	ValuePool	VP_dms1 Cycl.: DMS_Logger at dms1 with IP 192.168.75.50 port 60809: Cleanup Prod.
+2015/04/13	16:33:29.866514	Information	269640418	DMS.DMS_ExternalDeviceMonitor	[Main - Stop] Stopping
+2015/04/13	16:33:32.253640	Information	0	ValuePool	VP_dms1 Cons.: ErrorLogger at dms1 with IP 192.168.75.50 port 39007: Terminated

@@ -1,0 +1,188 @@
+YYYY/MM/DD	HH:mm:ss	Type	Level	Origin	Message
+2015/04/09	13:21:34.650145	Information	0	ValuePool	VP_dms1: Started
+2015/04/09	13:21:34.660245	Information	0	ValuePool	VP_dms1: V2.7.13.6
+2015/04/09	13:21:39.592161	Information	0	ValuePool	VP_dms1 Cons.: ErrorLogger at dms1 with IP 192.168.75.50 port 46198
+2015/04/09	13:21:42.793174	Information	1229466086	DMS.DMS_ExternalDeviceMonitor	[Main - Start] Started successfully
+2015/04/09	13:21:42.793264	Information	1657713527	DMS.DMS_ExternalDeviceMonitor	[Main - Debugging] Off
+2015/04/09	13:21:43.962064	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:44.306437	Information	1229466086	DMS.DMS_Frontend.ADAC1	[Main - Start] Started successfully [ADAC1]
+2015/04/09	13:21:44.306484	Information	1657713527	DMS.DMS_Frontend.ADAC1	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ADAC1.properties]
+2015/04/09	13:21:44.463250	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:44.964440	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:45.463101	Information	1964552444	DMS.DMS_Frontend.ADAC1	[Configuration - Loaded] 
+2015/04/09	13:21:45.465627	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:45.471509	Information	416757256	DMS.DMS_Frontend.ADAC1	[Database-Storage - Start] Started successfully
+2015/04/09	13:21:45.471536	Information	1916564851	DMS.DMS_Frontend.ADAC1	[Filedump-Storage - Start] Started successfully
+2015/04/09	13:21:45.471547	Information	452586908	DMS.DMS_Frontend.ADAC1	[Online-Display - Start] Started successfully
+2015/04/09	13:21:45.472277	Information	857351104	DMS.DMS_Frontend.ADAC1	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:21:45.472836	Error	2066695828	DMS.DMS_Frontend.ADAC1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/09	13:21:45.477615	Information	2043744590	DMS.DMS_Frontend.ADAC1	[DataLogger - Connection Established] localhost:5432
+2015/04/09	13:21:45.492580	Information	567668653	DMS.DMS_Frontend.ADAC1	[Subsystem - Connection Established] client-mode 192.168.75.10:30000
+2015/04/09	13:21:45.966735	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:46.467717	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:46.968732	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:47.469829	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:47.970833	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:48.471924	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:48.972927	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:49.473946	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:49.887839	Information	1229466086	DMS.DMS_Frontend.ADAN1	[Main - Start] Started successfully [ADAN1]
+2015/04/09	13:21:49.887885	Information	1657713527	DMS.DMS_Frontend.ADAN1	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ADAN1.properties]
+2015/04/09	13:21:49.975083	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:50.476329	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:50.973563	Information	857351104	DMS.DMS_Frontend.ADAC1	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:21:50.977370	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:51.064596	Information	1964552444	DMS.DMS_Frontend.ADAN1	[Configuration - Loaded] 
+2015/04/09	13:21:51.066697	Information	416757256	DMS.DMS_Frontend.ADAN1	[Database-Storage - Start] Started successfully
+2015/04/09	13:21:51.066711	Information	452586908	DMS.DMS_Frontend.ADAN1	[Online-Display - Start] Started successfully
+2015/04/09	13:21:51.066810	Information	1916564851	DMS.DMS_Frontend.ADAN1	[Filedump-Storage - Start] Started successfully
+2015/04/09	13:21:51.067431	Information	857351104	DMS.DMS_Frontend.ADAN1	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:21:51.068128	Error	2066695828	DMS.DMS_Frontend.ADAN1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/09	13:21:51.072909	Information	2043744590	DMS.DMS_Frontend.ADAN1	[DataLogger - Connection Established] localhost:5432
+2015/04/09	13:21:51.079489	Information	567668653	DMS.DMS_Frontend.ADAN1	[Subsystem - Connection Established] client-mode 192.168.75.11:30000
+2015/04/09	13:21:51.478373	Information	857351104	DMS.DMS_ExternalDeviceMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:21:51.559292	Information	291977682	DMS.DMS_ExternalDeviceMonitor	[Main - Init] Found 16 external devices and defined 176 channels.
+2015/04/09	13:21:55.475520	Information	1229466086	DMS.DMS_Frontend.ADAR1	[Main - Start] Started successfully [ADAR1]
+2015/04/09	13:21:55.475565	Information	1657713527	DMS.DMS_Frontend.ADAR1	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ADAR1.properties]
+2015/04/09	13:21:56.568698	Information	857351104	DMS.DMS_Frontend.ADAN1	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:21:56.633449	Information	1964552444	DMS.DMS_Frontend.ADAR1	[Configuration - Loaded] 
+2015/04/09	13:21:56.636148	Information	416757256	DMS.DMS_Frontend.ADAR1	[Database-Storage - Start] Started successfully
+2015/04/09	13:21:56.636186	Information	1916564851	DMS.DMS_Frontend.ADAR1	[Filedump-Storage - Start] Started successfully
+2015/04/09	13:21:56.637119	Information	452586908	DMS.DMS_Frontend.ADAR1	[Online-Display - Start] Started successfully
+2015/04/09	13:21:56.639082	Information	857351104	DMS.DMS_Frontend.ADAR1	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:21:56.642267	Information	2043744590	DMS.DMS_Frontend.ADAR1	[DataLogger - Connection Established] localhost:5432
+2015/04/09	13:21:56.642850	Error	2066695828	DMS.DMS_Frontend.ADAR1	[ValuePool - Configuration Failed] [../src/Configurator.cpp begin() 50]: Can't begin configuration: 1000-6 | [ValuePool: SvcAdmConfigBegin 22912]: Configuration already in progress
+2015/04/09	13:21:56.648652	Information	567668653	DMS.DMS_Frontend.ADAR1	[Subsystem - Connection Established] client-mode 192.168.75.12:30000
+2015/04/09	13:21:56.672740	Warning	0	ValuePool	VP_dms1 Prod.: DMS_Frontend at dms1 with IP 192.168.75.50 port 40146: At least one sample discarded for "Setra278_3.SPF_raw"
+2015/04/09	13:21:56.673788	Warning	0	ValuePool	VP_dms1 Prod.: DMS_Frontend at dms1 with IP 192.168.75.50 port 40146: At least one sample discarded for "Setra239R_4.DP_raw"
+2015/04/09	13:22:01.056008	Information	1229466086	DMS.DMS_ChannelDump	[Main - Start] Started successfully
+2015/04/09	13:22:01.056063	Information	1657713527	DMS.DMS_ChannelDump	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.ChannelDump.properties]
+2015/04/09	13:22:02.140577	Information	857351104	DMS.DMS_Frontend.ADAR1	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:22:02.649221	Information	1229466086	DMS.DMS_SystemMonitor	[Main - Start] Started successfully
+2015/04/09	13:22:02.649281	Information	1657713527	DMS.DMS_SystemMonitor	[Main - Debugging] On [/data/DMS_ArchiveSet/System/DMS/current/config/Logging/log4cpp.SystemMonitor.properties]
+2015/04/09	13:22:02.650017	Information	1964552444	DMS.DMS_SystemMonitor	[Configuration - Loaded] 31 components will be monitored
+2015/04/09	13:22:26.143897	Information	857351104	DMS.DMS_ChannelDump	[ValuePool - Connection Established] localhost:13000
+2015/04/09	13:22:26.456609	Information	2043744590	DMS.DMS_ChannelDump	[DataLogger - Connection Established] localhost:5432
+2015/04/09	13:22:26.555604	Information	291977682	DMS.DMS_ChannelDump	[Main - Init]  Found 721 channels to dump in database.
+2015/04/09	13:22:37.675779	Information	857351104	DMS.DMS_SystemMonitor	[ValuePool - Connection Established] Host: localhost, Port: 13000
+2015/04/09	13:22:37.681243	Information	291977682	DMS.DMS_SystemMonitor	[Main - Init] 31 channels to monitor
+2015/04/09	13:22:37.782634	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:22:37.782657	Information	1137979518	DMS.DMS_SystemMonitor.Channels	[Main - StateChange Generator Current] CurrentState = 000110001: Error
+2015/04/09	13:22:37.782676	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001111: Error
+2015/04/09	13:22:37.782689	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001111: Error
+2015/04/09	13:22:37.782701	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001111: Error
+2015/04/09	13:22:37.782743	Error	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] OldState = 100000000: Timed out
+2015/04/09	13:22:37.782827	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/09	13:22:37.782954	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000000000, New State = 100111111
+2015/04/09	13:22:38.783707	Error	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] OldState = 100000000: Timed out
+2015/04/09	13:22:38.783800	Error	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] OldState = 100000000: Timed out
+2015/04/09	13:24:05.266994	Warning	41347049	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 11(GPS2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 11 is corrupt, header->_timestamp=d185f080 1970-Jan-01 00:00:03.515216
+2015/04/09	13:24:05.629185	Warning	41347049	DMS.DMS_Frontend.ADAC1	[Databuffer - Buffer 11(GPS2) Error] [../src/BufferFactoryImpl.cpp retrieveTime() 66]: timestamp of buffer 11 is corrupt, header->_timestamp=d185f080 1970-Jan-01 00:00:03.515216
+2015/04/09	13:24:05.867378	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000010: Error
+2015/04/09	13:24:05.867430	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:05.867452	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:05.867475	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:05.867498	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:15.876944	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:15.876965	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:15.876992	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:17.878829	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:18.879814	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:18.879842	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:24:18.879862	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/09	13:24:18.879885	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:18.879908	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:18.879934	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:18.879970	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:24:18.880313	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111111, New State = 100111011
+2015/04/09	13:24:19.881045	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:19.881066	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:19.881080	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:19.881093	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/09	13:24:19.881106	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:19.881121	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:24:19.881133	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:19.881146	Information	1773665825	DMS.DMS_SystemMonitor.Channels	[Main - StateChange DMS-FE ADAC1] CurrentState = 000000000: OK
+2015/04/09	13:24:19.881158	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:19.881384	Information	601752941	DMS.DMS_SystemMonitor.Channels	[Main - Timeout GPS5] Reset [Number of occurrences = 102]
+2015/04/09	13:24:19.881513	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111011, New State = 100111001
+2015/04/09	13:24:20.882224	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/09	13:24:20.882245	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:20.882271	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:24:20.882284	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:20.882297	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:21.885758	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:24:21.885779	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/09	13:24:21.885793	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:21.885806	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:21.885820	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:21.885833	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:21.885848	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:24:22.886777	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:24:22.887030	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100111001, New State = 100110001
+2015/04/09	13:24:23.887764	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:23.887787	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:24:27.891521	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:27.891551	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:38.901688	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:38.901711	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:24:41.904463	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:41.904485	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:24:42.905444	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:42.905473	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:46.909223	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:24:46.909245	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:24:47.910192	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:24:47.910222	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:24:54.917081	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:54.917101	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:24:54.917114	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000001001: Error
+2015/04/09	13:24:54.917140	Information	1688366477	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS3] CurrentState = 000000000: OK
+2015/04/09	13:25:06.930516	Information	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] Reset [Number of occurrences = 149]
+2015/04/09	13:25:06.930751	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 100110001, New State = 000110001
+2015/04/09	13:25:10.934594	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:25:10.934615	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:25:10.934628	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000001001: Error
+2015/04/09	13:25:10.934654	Information	1688366475	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS5] CurrentState = 000000000: OK
+2015/04/09	13:25:11.935706	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/09	13:25:11.935726	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:25:11.935739	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000001001: Error
+2015/04/09	13:25:11.935766	Information	1688366480	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS2] CurrentState = 000000000: OK
+2015/04/09	13:25:12.936701	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:25:12.936722	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	13:25:12.936735	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000001001: Error
+2015/04/09	13:25:12.936761	Information	1688366478	DMS.DMS_SystemMonitor.Channels	[Main - StateChange GPS4] CurrentState = 000000000: OK
+2015/04/09	17:40:14.143346	Error	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] OldState = 100000000: Timed out
+2015/04/09	17:40:14.143586	Information	835148916	DMS.DMS_SystemMonitor.Channels	[Main - StateChange] DMS_SystemMonitor OldState = 000110001, New State = 100110001
+2015/04/09	17:40:15.144345	Error	1416129901	DMS.DMS_SystemMonitor.Channels	[Main - Timeout KT19 serial] OldState = 100000000: Timed out
+2015/04/09	17:52:28.207649	Information	269640418	DMS.DMS_SystemMonitor	[Main - Stop] Stopping
+2015/04/09	17:52:33.530245	Information	269640418	DMS.DMS_ChannelDump	[Main - Stop] Stopped.
+2015/04/09	17:52:34.913185	Information	1007834279	DMS.DMS_Frontend.ADAR1	[Filedump-Storage - Stop] Filedump-Storage terminates it's execution after 16238278ms
+2015/04/09	17:52:34.914562	Information	269640418	DMS.DMS_Frontend.ADAR1	[Main - Stop]  terminates it's execution after 16238268ms
+2015/04/09	17:52:34.920231	Information	1070460574	DMS.DMS_Frontend.ADAR1	[Online-Display - Stop] Online-Display terminates it's execution after 16238284ms
+2015/04/09	17:52:34.937387	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 42926: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:34.939781	Error	104	ValuePool	VP_dms1 Prod.: DMS.DMS_Frontend.ADAR1 at dms1 with IP 192.168.75.50 port 43519: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:34.940500	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 53192: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:34.941035	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 56048: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:34.941567	Error	104	ValuePool	VP_dms1 Prod.: DMS_Logger at dms1 with IP 192.168.75.50 port 51156: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:35.040611	Warning	0	ValuePool	VP_dms1 Cycl.: DMS.DMS_Frontend.ADAR1 at dms1 with IP 192.168.75.50 port 43519: Cleanup Prod.
+2015/04/09	17:52:35.041411	Warning	0	ValuePool	VP_dms1 Cycl.: DMS_Logger at dms1 with IP 192.168.75.50 port 51156: Cleanup Prod.
+2015/04/09	17:52:35.960988	Information	1007834279	DMS.DMS_Frontend.ADAN1	[Filedump-Storage - Stop] Filedump-Storage terminates it's execution after 16244895ms
+2015/04/09	17:52:35.961550	Information	1070460574	DMS.DMS_Frontend.ADAN1	[Online-Display - Stop] Online-Display terminates it's execution after 16244895ms
+2015/04/09	17:52:35.961768	Information	269640418	DMS.DMS_Frontend.ADAN1	[Main - Stop]  terminates it's execution after 16244885ms
+2015/04/09	17:52:35.965473	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 41680: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:35.966346	Error	104	ValuePool	VP_dms1 Prod.: DMS.DMS_Frontend.ADAN1 at dms1 with IP 192.168.75.50 port 50887: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:35.966878	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 46618: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:35.967409	Error	104	ValuePool	VP_dms1 Prod.: DMS_Logger at dms1 with IP 192.168.75.50 port 42723: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:35.967926	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 33128: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:36.053066	Warning	0	ValuePool	VP_dms1 Cycl.: DMS.DMS_Frontend.ADAN1 at dms1 with IP 192.168.75.50 port 50887: Cleanup Prod.
+2015/04/09	17:52:36.053893	Warning	0	ValuePool	VP_dms1 Cycl.: DMS_Logger at dms1 with IP 192.168.75.50 port 42723: Cleanup Prod.
+2015/04/09	17:52:38.177771	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 33650: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:38.178690	Error	104	ValuePool	VP_dms1 Prod.: DMS_Logger at dms1 with IP 192.168.75.50 port 45673: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:38.179676	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 57488: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:38.180338	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 58325: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:38.180953	Error	104	ValuePool	VP_dms1 Appl.: App at dms1 with IP 127.0.0.1 port 53544: 1-104 | [WPI_TCPIP: Receive 3459]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:38.181650	Error	104	ValuePool	VP_dms1 Prod.: DMS.DMS_Frontend.ADAC1 at dms1 with IP 192.168.75.50 port 44956: 1-104 | [WPI_TCPIP: Receive 3442]: Connection reset by peer; Can't decode data
+2015/04/09	17:52:38.262789	Warning	0	ValuePool	VP_dms1 Cycl.: DMS.DMS_Frontend.ADAC1 at dms1 with IP 192.168.75.50 port 44956: Cleanup Prod.
+2015/04/09	17:52:38.263768	Warning	0	ValuePool	VP_dms1 Cycl.: DMS_Logger at dms1 with IP 192.168.75.50 port 45673: Cleanup Prod.
+2015/04/09	17:52:42.194601	Information	0	ValuePool	VP_dms1 Cons.: ErrorLogger at dms1 with IP 192.168.75.50 port 46198: Terminated

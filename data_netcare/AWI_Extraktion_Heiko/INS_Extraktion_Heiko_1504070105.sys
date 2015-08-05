@@ -1,0 +1,42 @@
+2015-04-16 21:08:02,483 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal1() - orderfile = '/data/DMS_Extraction/order/active/INS_Extraktion_Heiko_1504070105.xml'.
+2015-04-16 21:08:02,483 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal1() - archive   = '/data/DMS_Archive'.
+2015-04-16 21:08:02,483 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - orderfile = '/data/DMS_Extraction/order/active/INS_Extraktion_Heiko_1504070105.xml'.
+2015-04-16 21:08:02,487 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - archive   = '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504070105-dms1'.
+2015-04-16 21:08:02,487 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - Configuration file = '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504070105-dms1/System/DMS/current/config/System/SystemConfiguration.xml'.
+2015-04-16 21:08:05,192 [-1215669968] INFO  dms.data_exporter.ValuePool - create() - Started VP on port 6000.
+2015-04-16 21:08:08,313 [-1215669968] INFO  dms.data_exporter.DataBase - create() - Started DB on port 5442 at path '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504070105-dms1/Data/DB'.
+2015-04-16 21:08:14,332 [-1215669968] INFO  dms.data_exporter.EventServer - create() - Started ES on port 7000 with PID 19773.
+2015-04-16 21:08:15,352 [-1215669968] INFO  dms.data_exporter.EventExporter - exportEvents() - Start exporting events.
+2015-04-16 21:08:15,362 [-1215669968] INFO  dms.data_exporter.EventExporter - exportEvents() - Finished exporting of 183 events.
+2015-04-16 21:08:15,362 [-1215669968] INFO  dms.data_exporter.DataStreamWriter - create() - File name = /data/DMS_Extraction/workspace/INS_Extraktion_Heiko_1504070105.dat
+2015-04-16 21:08:15,363 [-1215669968] INFO  dms.data_exporter.DataExporter - create() - Using BPRasteredDataExporter
+2015-04-16 21:08:15,363 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Ordered channels = [INS.GS, INS.IA, INS.IVS, INS.MH, INS.PA, INS.PR, INS.RA, INS.RR, INS.TH, INS.VA, INS.XA, INS.YA, INS.YR, INS.ZA]
+2015-04-16 21:08:15,363 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Extraction range = {Start = 2015-Apr-07 16:08:43, End = 2015-Apr-07 20:51:52}
+2015-04-16 21:08:17,676 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,677 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:08:17,678 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.5f
+2015-04-16 21:08:17,678 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.5f
+2015-04-16 21:08:17,678 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.2f
+2015-04-16 21:08:17,678 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.5f
+2015-04-16 21:08:22,678 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  11.25 %
+2015-04-16 21:08:27,678 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  19.38 %
+2015-04-16 21:08:32,679 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  29.03 %
+2015-04-16 21:08:37,679 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  38.67 %
+2015-04-16 21:08:42,679 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  46.39 %
+2015-04-16 21:08:47,679 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  54.11 %
+2015-04-16 21:08:52,679 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  63.75 %
+2015-04-16 21:08:57,680 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  73.39 %
+2015-04-16 21:09:02,680 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  83.04 %
+2015-04-16 21:09:07,680 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  92.68 %
+2015-04-16 21:09:10,927 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Extracted samples for 14 channels = 15225785
+2015-04-16 21:09:11,393 [-1215669968] INFO  dms.data_exporter.EventServer - stop() - Stopped ES on port 7000 with PID 19773.
+2015-04-16 21:09:12,417 [-1215669968] INFO  dms.data_exporter.DataBase - stop() - Stopped DB on port 5442 at path '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504070105-dms1/Data/DB'.
+2015-04-16 21:09:13,351 [-1215669968] INFO  dms.data_exporter.ValuePool - stop() - Stopped VP on port 6000.

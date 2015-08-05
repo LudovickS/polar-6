@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderfile xmlns="http://www.werum.de/schema/orderfile" archiveSetPath="/Polar6/NETCARE_P6_2015/1504080106-dms1" orderFileName="INS_Extraktion_Heiko_1504080106.xml" saveOrderFileName="" saveOrder="false" systemName="Polar6">
+    <user emailAddress="" receiveEmail="false" username="polar6@awi.de"/>
+    <destinationFile fileNamePrefix="INS_Extraktion_Heiko_1504080106" fileFormat="ASCII" maxFileSize="1024" path="/data/DMS_Extraction/results">
+        <format columnSeparator="\t" dateTimeFormat="YYYY_SLASH_MM_SLASH_DD_STAR_HH_COLON_mm_COLON_ss" decimalSeparator="Dot" fitToFormat="false" includeHeaderRow="true" nonValidValueAlphanumeric=" " nonValidValueNumeric="9" nonValidValuePosition=" " recordSeparator="\n" secondFractionDigits="6" showInvalidValues="true" skipInvalidLines="true"/>
+    </destinationFile>
+    <extraction dataSource="FullDataSet" endDate="2015-04-08T16:49:03.000Z" intervalUnit="s" intervalValue="1" startDate="2015-04-08T13:34:03.000Z">
+        <channels numberOfChannels="14">
+            <channel channelShortName="GS" columnOrderPosition="1" deviceShortName="INS" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="knots" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="IA" columnOrderPosition="2" deviceShortName="INS" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="fts" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="IVS" columnOrderPosition="3" deviceShortName="INS" fieldWidth="1" meanCalculation="Numeric" outputFormat="Real" physicalUnit="ft/min" precision="3" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="MH" columnOrderPosition="4" deviceShortName="INS" fieldWidth="3" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="PA" columnOrderPosition="5" deviceShortName="INS" fieldWidth="3" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="PR" columnOrderPosition="6" deviceShortName="INS" fieldWidth="3" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg/s" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="RA" columnOrderPosition="7" deviceShortName="INS" fieldWidth="3" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="RR" columnOrderPosition="8" deviceShortName="INS" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="deg/s" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="TH" columnOrderPosition="9" deviceShortName="INS" fieldWidth="3" meanCalculation="CycleGrad" outputFormat="Real" physicalUnit="deg" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="VA" columnOrderPosition="10" deviceShortName="INS" fieldWidth="1" meanCalculation="Numeric" outputFormat="Real" physicalUnit="g" precision="3" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="XA" columnOrderPosition="11" deviceShortName="INS" fieldWidth="1" meanCalculation="Numeric" outputFormat="Real" physicalUnit="g" precision="5" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="YA" columnOrderPosition="12" deviceShortName="INS" fieldWidth="1" meanCalculation="Numeric" outputFormat="Real" physicalUnit="g" precision="5" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="YR" columnOrderPosition="13" deviceShortName="INS" fieldWidth="3" meanCalculation="Numeric" outputFormat="Real" physicalUnit="deg/s" precision="2" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+            <channel channelShortName="ZA" columnOrderPosition="14" deviceShortName="INS" fieldWidth="1" meanCalculation="Numeric" outputFormat="Real" physicalUnit="g" precision="5" sampleRate="50" dataType="">
+                <deliveredValues max="false" mean="false" meanValidity="false" min="false" samples="false" spot="true" standardDeviation="false" valueValidity="false" variance="false"/>
+            </channel>
+        </channels>
+    </extraction>
+</orderfile>

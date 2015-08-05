@@ -1,0 +1,50 @@
+M300_DateTime % syncro time
+temp-sta % static temperature comes from AIMMS (oC)
+dew-point % AIMMS (oC)
+press-sta % static pressure AIMMS (mb)
+RH % AIMMS (/water)
+WindSpeed % (m/s??)
+WindDir % deg
+WindSpdK % AIMMS (m/s or knots)
+WindDirR % AIMMS (rad)
+Latitude_deg
+Longitude_deg
+Altitude_m
+Roll
+Pitch
+Yaw
+VerticalWind % m/s (not very reliable/precise)
+TWCg/m3 % Total Water Content
+LWCg/m3 % Liquid Water Content
+O3Conc % ppb (probably first 2 fligths only)
+SO2Conc % ppb (probably first 2 fligths only)
+
+Grimm01 % (0.23 µm) only mass fraction
+Grimm02 % 0.30 µm counts/L and mass fraction
+Grimm03 % 0.40 µm counts/L and mass fraction
+Grimm04 % 0.50 µm counts/L and mass fraction
+Grimm05 % 0.65 µm counts/L and mass fraction
+Grimm06 % 0.80 µm counts/L and mass fraction
+Grimm07 % 1.0 µm counts/L and mass fraction
+Grimm08 % 1.6 µm counts/L and mass fraction
+Grimm09 % 2.0 µm counts/L and mass fraction
+Grimm10 % 3.0 µm counts/L and mass fraction
+Grimm11 % 4.0 µm counts/L and mass fraction
+Grimm12 % 5.0 µm counts/L and mass fraction
+Grimm13 % 7.5 µm counts/L and mass fraction
+Grimm14 % 10 µm counts/L and mass fraction
+Grimm15 % 15 µm counts/L and mass fraction
+Grimm16 % 20 µm counts/L and mass fraction
+
+SP2inc % black carbon
+CPC72-CncAve % total particle conc > 10 nm diameter /cm^3 (aerosols only)
+CPC76-CncAve % total particle conc > 4 nm diameter /cm^3 (aerosols only)
+2DCTotCn % Nb/L clouds (> 50 um)
+
+F100TCon % Nb/cm^3 wing probe (1-40 um droplets)
+F100LWC % LWC g/m^3 (assuming spheric)
+F100MVD % mean volume diameter (> 50 size ranges)
+
+F300TCon % Nb/cm^3 wing probe (like the Grimm >300 nm - 20 um)
+F300LWC % LWC g/m^3 (assuming spheric)
+F300MVD % mean volume diameter

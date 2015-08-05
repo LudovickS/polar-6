@@ -1,0 +1,29 @@
+2015-04-16 21:47:32,508 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal1() - orderfile = '/data/DMS_Extraction/order/active/RAD_Extraktion_Heiko_1504110110.xml'.
+2015-04-16 21:47:32,509 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal1() - archive   = '/data/DMS_Archive'.
+2015-04-16 21:47:32,509 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - orderfile = '/data/DMS_Extraction/order/active/RAD_Extraktion_Heiko_1504110110.xml'.
+2015-04-16 21:47:32,512 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - archive   = '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504110110-dms1'.
+2015-04-16 21:47:32,512 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - Configuration file = '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504110110-dms1/System/DMS/current/config/System/SystemConfiguration.xml'.
+2015-04-16 21:47:35,248 [-1215669968] INFO  dms.data_exporter.ValuePool - create() - Started VP on port 6000.
+2015-04-16 21:47:38,412 [-1215669968] INFO  dms.data_exporter.DataBase - create() - Started DB on port 5442 at path '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504110110-dms1/Data/DB'.
+2015-04-16 21:47:44,428 [-1215669968] INFO  dms.data_exporter.EventServer - create() - Started ES on port 7000 with PID 3410.
+2015-04-16 21:47:45,444 [-1215669968] INFO  dms.data_exporter.EventExporter - exportEvents() - Start exporting events.
+2015-04-16 21:47:45,454 [-1215669968] INFO  dms.data_exporter.EventExporter - exportEvents() - Finished exporting of 216 events.
+2015-04-16 21:47:45,454 [-1215669968] INFO  dms.data_exporter.DataStreamWriter - create() - File name = /data/DMS_Extraction/workspace/RAD_Extraktion_Heiko_1504110110.dat
+2015-04-16 21:47:45,454 [-1215669968] INFO  dms.data_exporter.DataExporter - create() - Using BPRasteredDataExporter
+2015-04-16 21:47:45,455 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Ordered channels = [KT19analog.TR, Pyrano_bottom.RAD_raw, Pyrano_bottom.T_raw, Pyrano_top.RAD_raw, Pyrano_top.T_raw, Pyrgeo_bottom.RAD_raw, Pyrgeo_bottom.T_raw, Pyrgeo_top.RAD_raw, Pyrgeo_top.T_raw]
+2015-04-16 21:47:45,455 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Extraction range = {Start = 2015-Apr-11 15:40:53, End = 2015-Apr-11 21:20:33}
+2015-04-16 21:47:46,070 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:47:46,070 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:47:46,070 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:47:46,070 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:47:46,070 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:47:46,071 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:47:46,071 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:47:46,071 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:47:46,071 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:47:51,071 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  40.67 %
+2015-04-16 21:47:56,071 [-1255900304] NOTICE dms.data_exporter.Progress - logProgress() - Done =  80.87 %
+2015-04-16 21:47:57,956 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Extracted samples for 9 channels = 4257330
+2015-04-16 21:47:58,443 [-1215669968] INFO  dms.data_exporter.EventServer - stop() - Stopped ES on port 7000 with PID 3410.
+2015-04-16 21:47:59,466 [-1215669968] INFO  dms.data_exporter.DataBase - stop() - Stopped DB on port 5442 at path '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1504110110-dms1/Data/DB'.
+2015-04-16 21:48:00,380 [-1215669968] INFO  dms.data_exporter.ValuePool - stop() - Stopped VP on port 6000.

@@ -1,0 +1,27 @@
+2015-04-16 21:30:47,600 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal1() - orderfile = '/data/DMS_Extraction/order/active/RAD_Extraktion_Heiko.xml'.
+2015-04-16 21:30:47,600 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal1() - archive   = '/data/DMS_Archive'.
+2015-04-16 21:30:47,600 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - orderfile = '/data/DMS_Extraction/order/active/RAD_Extraktion_Heiko.xml'.
+2015-04-16 21:30:47,602 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - archive   = '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1503270000-dms1'.
+2015-04-16 21:30:47,602 [-1215669968] INFO  dms.data_exporter.Exporter - doExportInternal2() - Configuration file = '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1503270000-dms1/System/DMS/current/config/System/SystemConfiguration.xml'.
+2015-04-16 21:30:50,299 [-1215669968] INFO  dms.data_exporter.ValuePool - create() - Started VP on port 6000.
+2015-04-16 21:30:53,452 [-1215669968] INFO  dms.data_exporter.DataBase - create() - Started DB on port 5442 at path '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1503270000-dms1/Data/DB'.
+2015-04-16 21:30:59,467 [-1215669968] INFO  dms.data_exporter.EventServer - create() - Started ES on port 7000 with PID 28973.
+2015-04-16 21:31:00,487 [-1215669968] INFO  dms.data_exporter.EventExporter - exportEvents() - Start exporting events.
+2015-04-16 21:31:00,496 [-1215669968] INFO  dms.data_exporter.EventExporter - exportEvents() - Finished exporting of 242 events.
+2015-04-16 21:31:00,496 [-1215669968] INFO  dms.data_exporter.DataStreamWriter - create() - File name = /data/DMS_Extraction/workspace/RAD_Extraktion_Heiko.dat
+2015-04-16 21:31:00,496 [-1215669968] INFO  dms.data_exporter.DataExporter - create() - Using BPRasteredDataExporter
+2015-04-16 21:31:00,497 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Ordered channels = [KT19analog.TR, Pyrano_bottom.RAD_raw, Pyrano_bottom.T_raw, Pyrano_top.RAD_raw, Pyrano_top.T_raw, Pyrgeo_bottom.RAD_raw, Pyrgeo_bottom.T_raw, Pyrgeo_top.RAD_raw, Pyrgeo_top.T_raw]
+2015-04-16 21:31:00,497 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Extraction range = {Start = 2015-Mar-27 13:37:17, End = 2015-Mar-27 14:59:20}
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.3f
+2015-04-16 21:31:01,124 [-1215669968] INFO  dms.data_exporter.Converter - RealConverter() - fit2Format:0  %.6f
+2015-04-16 21:31:04,379 [-1215669968] INFO  dms.data_exporter.BPRasteredDataExporter - exportData() - Extracted samples for 9 channels = 1001805
+2015-04-16 21:31:04,474 [-1215669968] INFO  dms.data_exporter.EventServer - stop() - Stopped ES on port 7000 with PID 28973.
+2015-04-16 21:31:05,486 [-1215669968] INFO  dms.data_exporter.DataBase - stop() - Stopped DB on port 5442 at path '/data/DMS_Archive/Polar6/NETCARE_P6_2015/1503270000-dms1/Data/DB'.
+2015-04-16 21:31:06,422 [-1215669968] INFO  dms.data_exporter.ValuePool - stop() - Stopped VP on port 6000.
